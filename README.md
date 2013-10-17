@@ -7,8 +7,8 @@
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
-
+Við notuðum VirtualBox og settum upp Ubuntu. Notuðum sjálfgefnar stillingar í VirtualBox. Eftir að búið var að innstalla þurftum við að ejecta ISO skránni og velja Linux.vdi. 
+<br>Þurftum að setja upp Guest Editions fyrir skjárekkla.<br>
 <img src="https://www.dropbox.com/s/t5fng7bbugpzxxx/ubuntu.png" alt="Skjaskot">
 ## 2. Uppsetning á vim && git 
 
