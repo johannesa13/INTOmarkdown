@@ -9,9 +9,9 @@
 
 Við notuðum VirtualBox og settum upp Ubuntu. Notuðum sjálfgefnar stillingar í VirtualBox. Eftir að búið var að innstalla þurftum við að ejecta ISO skránni og velja Linux.vdi. 
 <br>Þurftum að setja upp Guest Editions fyrir skjárekkla.<br>
-Ekki gékk okkur að setja inn myndina hér þrátt fyrir mikla leit. En tengillinn á hana er hér að neðan af dropbox.
+Ekki gékk okkur að setja inn myndina hér þrátt fyrir mikla leit. En tengillinn á hana er hér að neðan af dropbox.<br>
 <img src="https://www.dropbox.com/s/t5fng7bbugpzxxx/ubuntu.png" alt="Skjaskot">
-## 2. Uppsetning á vim && git 
+## 2. Uppsetning á vim & git 
 
 Gerðum eins og beðið var um í leiðbeiningum og engin vandamál komu upp.
 
