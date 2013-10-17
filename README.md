@@ -18,8 +18,6 @@ Gerðum eins og beðið var um í leiðbeiningum og engin vandamál komu upp.
 
 Fylgdum leiðbeiningum og Jóhannes forkaði verkefninu og bætti Jóni við. Lásum SSH leiðbeiningarnar og bjuggum til sitthvorn SSH lykilinn.
 Klónuðum git og opnuðum nim skrána í vim. Það tók okkur dágóðan tíma að komast að því hvernig ætti að vista skjalið.  Fylgdum leiðbeiningum til enda.
-
-<br>
 https://github.com/johannesa13/INTOPrufa
 <br>
 ## 4. Uppsettur hugbúnaður
