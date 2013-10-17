@@ -12,17 +12,44 @@ Við notuðum VirtualBox og settum upp Ubuntu. Notuðum sjálfgefnar stillingar 
 <img src="https://www.dropbox.com/s/t5fng7bbugpzxxx/ubuntu.png" alt="Skjaskot">
 ## 2. Uppsetning á vim && git 
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Gerðum eins og beðið var um í leiðbeiningum og engin vandamál komu upp.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
+Fylgdum leiðbeiningum og Jóhannes forkaði verkefninu og bætti Jóni við. Lásum SSH leiðbeiningarnar og bjuggum til sitthvorn SSH lykilinn.
+Klónuðum git og opnuðum nim skrána í vim. Það tók okkur dágóðan tíma að komast að því hvernig ætti að vista skjalið.  Fylgdum leiðbeiningum til enda.
 
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
-
+<br>
+https://github.com/johannesa13/INTOPrufa
+<br>
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+<ul>
+<li> Transmission <br> 
+Lincensed under the GNU public license (GPL)
+https://trac.transmissionbt.com/browser </li>
+<br>
+<li>Juno 6 VST plugin<br>
+The source is released under the GNU public license (GPL)
+http://sourceforge.net/projects/juno6/files/</li>
+<br>
+<li>Audacity sound editor<br>
+Audacity is free software, developed by a group of volunteers and distributed under
+the GNU General Public License (GPL).
+http://audacity.sourceforge.net/download/source</li>
+<br>
+<li> Mozilla Firefox <br>
+All of the source code to this product is available under licenses which are both free and open source. 
+https://developer.mozilla.org/en-US/docs/Developer_Guide/Source_Code/Downloading_Source_Archives</li>
+<br>
+<li>VLC Player<br>
+Software are licensed under open-source licenses.
+http://www.videolan.org/vlc/download-sources.html</li>
+<br>
+<li>Get organized<br>
+The source code for Get Organized is open source and licensed under the GNU GPL.
+http://www.alexlaird.com/projects/get-organized/get-the-source/</li>
+</ul>
 
 ## 5. Unnið með Git (2. hluti)
 
