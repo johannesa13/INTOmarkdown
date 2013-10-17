@@ -1,8 +1,8 @@
 #Open Source
 
 <ol>
-<li>Johannes K. Arnason</li>
-<li>Jon M. Schow</li>
+<li>Jóhannes K. Árnason</li>
+<li>Jón M. Schow</li>
 </ol>
 
 ## 1. Linux uppsetning
