@@ -1,12 +1,16 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+<ol>
+<li>Johannes K. Arnason</li>
+<li>Jon M. Schow</li>
+</ol>
 
 ## 1. Linux uppsetning
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
-## 2. Uppsetning á vim && git
+<img src="https://www.dropbox.com/s/t5fng7bbugpzxxx/ubuntu.png" alt="Skjaskot">
+## 2. Uppsetning á vim && git 
 
 Lýsið hvernig gekk að setja upp þessi tól.
 
